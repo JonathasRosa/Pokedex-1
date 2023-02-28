@@ -19,7 +19,7 @@ O desenvolvimento dessa aplicação foi em HTML5 e CSS3 para fazer a marcação 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Estutura do projeto.
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styles do projeto.
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript para criar a lógica e animações do projeto.
-* [API]('https://pokeapi.co/api/v2/pokemon/?offset=0&limit=1000') - PokeApiService.
+* [API](https://pokeapi.co/api/v2/pokemon/?offset=0&limit=1000) - PokeApiService.
 
 ## 📌 Versão
 
