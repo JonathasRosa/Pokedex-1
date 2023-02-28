@@ -1,5 +1,5 @@
 # Pokedex-1
- Projeto é uama Pokedéx com JavaScript.
+ Projeto é uma Pokedéx com JavaScript.
 
 ##
 ![](/img/tela-1.png)
